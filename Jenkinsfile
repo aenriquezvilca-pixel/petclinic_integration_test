@@ -4,7 +4,7 @@ pipeline {
 
     tools {
         maven 'Maven'
-        jdk 'Java17'
+        jdk 'Java21'
         // git 'Git'
     }
 
